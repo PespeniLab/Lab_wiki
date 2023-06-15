@@ -1,0 +1,100 @@
+# Trizol Chloroform + RNeasy RNA extraction for copes frozen in salt water
+
+Samples:
+
+
+Method a modified version of Whitehead small tissue and from Boles- 2018-01-04
+
+Note: TRIzol & chloroform are carcinogens & corrosive = work in the hood. Dispose of waste properly. This is assay uses both phenol- and column based methodology to extract total RNA.
+
+Before Starting:
+1. Keep everything clean. RNases are everywhere, especially on you.
+2. Chill trizol prior to use.
+3. Make up 70% etoh fresh. make ~300 ul/sample for copes
+
+## Part 1:
+1.	Add 200ul trizol to frozen sample- Thaw on ice
+
+2.	Transfer to 1.5 ml tube (assuming they’re in cryovials).
+
+3.	Spin at 12,000 g at 4C for 1 min
+
+4.	Remove liquid, leave copes
+
+5.	Add 50ul trizol (cold)
+
+6.	Homogenize with pestle, 40x
+
+7.	Rinse pestle with 350ul trizol
+
+8.	Keep on ice until ready for the 5 min incubation. 
+
+9.	Incubate at RT for 5 minutes; Vortex every 30 seconds
+
+10.	Transfer sample to clean, labeled 1.5mL tube
+
+11.	Add 300 uL chloroform per 1ml trizol, mix by inversion.  150ul for copes in 400ul trizol
+
+12.	Incubate 5 min at room temperature. Invert every minute to mix 
+
+13.	Centrifuge 15,000g; 4C; 15-30 min
+
+14.	Pipette off clear, aqueous top layer into a new tube. ~60% original Trizol vol.
+        
+     a. The mixture will separate into a clear upper aqueous phase, a cloudy interphase, and a pink lower organic (phenol/ 
+        chloroform) phase. Take care to not get any of the other phase. If you mess up, vortex homogenate, re-centrifuge, and 
+        try again
+
+     b. If clear layer isn’t on top, add ~100ul chloroform, respin. Pink on bottom is right
+
+     c. Keep aqueous supernatant on ice
+
+15.	Add equal volume 70% EtOH (fresh daily; make ~400 ul/sample for copes) to each sample supernatant; pipette to mix. 
+
+## Part 2: Qiagen Kit:
+
+16.	Transfer 700uL of the sample to Qiagen RNeasy spin column
+
+     a. Centrifuge 8,000g (> 10,000 rpm); 30 seconds at Room temp
+
+     b. Discard filtrate. RNA is now on the column
+
+     c. Repeat a and b until all sample is washed through spin-column. Do not add more than 700ul at a time. 
+
+17.	Add 700uL RW1 buffer to sample column
+
+     a. Centrifuge 8,000g; 15 seconds; RT
+
+     b. Discard filtrate and save collection tube
+
+18.	Add 500uL RPE to each column
+
+     a. Centrifuge 8,000g; 15 seconds; RT
+
+     b. Discard filtrate and save collection tube
+
+19.	Add 500uL RPE buffer to each column
+
+     a.	Centrifuge 8,000g; 2 minutes; RT
+
+     b.	Discard filtrate 
+
+20.	Transfer column to new 2 ml collection tube (Qiagen provided)
+
+     a.	Centrifuge 16,100g; 1 min; RT. Gets rid of any RPE carryover. 
+
+21.	Put sample column in tube labeled for storage 1.5mL tube
+
+22.	Add 65uL nuclease-free water directly to membrane; incubate RT; 1 min
+
+23.	Centrifuge 8,000g; RT; 1 min
+
+     a.	Save filtrate, as this is your eluted RNA.
+
+24.	Re-run flow through containing rna through membrane; incubate RT; 1 min
+
+25.	Centrifuge 8,000g; RT; 1 min
+
+26.	Save filtrate, as this is your eluted RNA. Around 60ul total
+
+27.	Aliquot ~5uL in for bioanalyzer and Qubit analyses. Store all RNA at -80C
