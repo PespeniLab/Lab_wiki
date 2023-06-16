@@ -35,6 +35,14 @@ pm.
 ## Carboy Maintenance
 
 When a carboy that once contained algae is empty, follow the steps below
-to ensure proper sanitation. 1. Fill with boiling hot water from the
-sink in RM 106 2. Soak for at least 24 hours 3. Scrub and rinse with
-water 4. Autoclave
+to ensure proper sanitation. 
+
+1. Fill with boiling hot water from the
+sink in RM 106
+
+2. Soak for at least 24 hours
+
+3. Scrub and rinse with
+water
+
+4. Autoclave
