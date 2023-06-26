@@ -4,7 +4,7 @@ Ensure that you are wearing close toed shoes, pants and long sleeves!!!
 
 1.  Remove as much water as possible from 1.5 mL tubes with specimens
 
-2.  Retrieve dewar container from 324
+2.  Retrieve dewar container and liquid nitrogen tongs from MLS 324
 
 3.  Bring samples and container to MLS rm 335
 
@@ -19,7 +19,7 @@ Ensure that you are wearing close toed shoes, pants and long sleeves!!!
 
 7.  Fill container ~1/4 full,
 
-8.  Hold each sample in liquid nitrogen using long tongs until frozen in the bottom of the tube (~3-5 seconds depending on volume); make sure you're wearing protective gloves; place lid on dewar.
+8.  Make sure you're wearing protective gloves; Hold each sample in liquid nitrogen using long, liquid nitrogen tongs until frozen in the bottom of the tube (~3-5 seconds depending on volume); this ensures the specimens are frozen at the bottom of the tube and can improve downstream extractions; ; place lid on dewar.
 
     1. turn off by tightening the knob however do NOT crank the knob closed
     as tight as you can- this may cause the knob to get stuck. Close just
